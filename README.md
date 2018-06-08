@@ -14,14 +14,15 @@
 - [X] ~~*Video 02*~~ [2018-06-08]
 - [X] ~~*Video 03*~~ [2018-06-08]
 - [X] ~~*Video 04*~~ [2018-06-08]
-- [ ] Video 05
-- [ ] Video 06
-- [ ] Video 07
-- [ ] Video 08
-- [ ] Video 09
-- [ ] Video 10
-- [ ] Video 11
+- [X] ~~*Video 05*~~ [2018-06-08]
+- [X] ~~*Video 06*~~ [2018-06-08]
+- [X] ~~*Video 07*~~ [2018-06-08]
+- [X] ~~*Video 08*~~ [2018-06-08]
+- [X] ~~*Video 09*~~ [2018-06-08]
+- [X] ~~*Video 10*~~ [2018-06-08]
+- [X] ~~*Video 11*~~ [2018-06-08]
 
 ## Notes
 
--
+- [Powerline fonts](https://github.com/powerline/fonts)
+- [z command](https://github.com/rupa/z)
